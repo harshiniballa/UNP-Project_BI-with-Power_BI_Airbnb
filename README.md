@@ -5,7 +5,9 @@ Completed this project as part of my BI with PowerBI Internship with United Netw
 Key Highlights:
 
 1.Contributed in building innovative, interactive Power BI dashboards with detailed KPIs.
+
 2.Dedicated to designing data models, conducting data transformation, and calculating using DAX for reliable analysis and reporting.
+
 3.Dashboard is designed with a user-centric approach.
 
 PBIX file Link: https://drive.google.com/file/d/1uxKI9UybE0soxuHexX3mJWvSI0aO3GSx/view?usp=sharing
